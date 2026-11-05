@@ -1,0 +1,14 @@
+C:\Users\elvix\Documents\Lab02-NAIDIN\bin\Debug\net10.0\Lab02-NAIDIN.exe
+C:\Users\elvix\Documents\Lab02-NAIDIN\bin\Debug\net10.0\Lab02-NAIDIN.deps.json
+C:\Users\elvix\Documents\Lab02-NAIDIN\bin\Debug\net10.0\Lab02-NAIDIN.runtimeconfig.json
+C:\Users\elvix\Documents\Lab02-NAIDIN\bin\Debug\net10.0\Lab02-NAIDIN.dll
+C:\Users\elvix\Documents\Lab02-NAIDIN\bin\Debug\net10.0\Lab02-NAIDIN.pdb
+C:\Users\elvix\Documents\Lab02-NAIDIN\obj\Debug\net10.0\Lab02-NAIDIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvix\Documents\Lab02-NAIDIN\obj\Debug\net10.0\Lab02-NAIDIN.AssemblyInfoInputs.cache
+C:\Users\elvix\Documents\Lab02-NAIDIN\obj\Debug\net10.0\Lab02-NAIDIN.AssemblyInfo.cs
+C:\Users\elvix\Documents\Lab02-NAIDIN\obj\Debug\net10.0\Lab02-NAIDIN.csproj.CoreCompileInputs.cache
+C:\Users\elvix\Documents\Lab02-NAIDIN\obj\Debug\net10.0\Lab02-NAIDIN.dll
+C:\Users\elvix\Documents\Lab02-NAIDIN\obj\Debug\net10.0\refint\Lab02-NAIDIN.dll
+C:\Users\elvix\Documents\Lab02-NAIDIN\obj\Debug\net10.0\Lab02-NAIDIN.pdb
+C:\Users\elvix\Documents\Lab02-NAIDIN\obj\Debug\net10.0\Lab02-NAIDIN.genruntimeconfig.cache
+C:\Users\elvix\Documents\Lab02-NAIDIN\obj\Debug\net10.0\ref\Lab02-NAIDIN.dll
