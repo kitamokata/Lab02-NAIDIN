@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab02-NAIDIN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61cdf9a71c85c43690d243f1ea4e764409d23d0f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2028f859a87e354b46ea786b43652b9106554a5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab02-NAIDIN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab02-NAIDIN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
