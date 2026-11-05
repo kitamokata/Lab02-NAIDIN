@@ -12,3 +12,4 @@ C:\Users\elvix\Documents\Lab02-NAIDIN\obj\Debug\net10.0\refint\Lab02-NAIDIN.dll
 C:\Users\elvix\Documents\Lab02-NAIDIN\obj\Debug\net10.0\Lab02-NAIDIN.pdb
 C:\Users\elvix\Documents\Lab02-NAIDIN\obj\Debug\net10.0\Lab02-NAIDIN.genruntimeconfig.cache
 C:\Users\elvix\Documents\Lab02-NAIDIN\obj\Debug\net10.0\ref\Lab02-NAIDIN.dll
+C:\Users\elvix\Documents\Lab02-NAIDIN\obj\Debug\net10.0\Lab02-NAIDIN.sourcelink.json
